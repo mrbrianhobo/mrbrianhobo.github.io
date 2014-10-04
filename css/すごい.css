@@ -61,7 +61,7 @@ html, body {
 }
 
 body {
-  background: #16a085;
+  background: #7b68ee;
   font-family: 'Montserrat', sans-serif;
   color: #fff;
   line-height: 1.3;
@@ -110,8 +110,8 @@ p {
           transition: all 0.4s;
 }
 .btn:hover {
-  color: #005544;
-  border-color: #005544;
+  color: #463893;
+  border-color: #463893;
 }
 
 @media only screen and (max-width: 1000px) {
