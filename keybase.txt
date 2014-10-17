@@ -1,0 +1,75 @@
+  _______________________
+ / Hey There!            \
+ \              - Brian  /
+  -----------------------
+    \   ^__^
+     \  (oo)\_______
+        (__)\       )\/\
+            ||----w |
+            ||     ||
+
+==================================================================
+https://keybase.io/mrbrianhobo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mrbrianhobo.github.io
+  * I am mrbrianhobo (https://keybase.io/mrbrianhobo) on keybase.
+  * I have a public key with fingerprint 581F D783 79F3 8E2D 0C72  CFC7 854D AD8C 530E 625E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "581fd78379f38e2d0c72cfc7854dad8c530e625e",
+            "host": "keybase.io",
+            "key_id": "854dad8c530e625e",
+            "uid": "600009d7ff6e1bc766c720e26340b200",
+            "username": "mrbrianhobo"
+        },
+        "service": {
+            "hostname": "mrbrianhobo.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413515156,
+    "expire_in": 157680000,
+    "prev": "3a705b9908661ee0501c3d97460f94ed95efd8cfc5adfaa53378c85c81d4b7ec",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHnAnicbZFbSBRRGMd37SJuilGJEYFwoKBc1pmdnduukRV0MW9RCJKwzuXMzpTO
+bDOz660ljCiQJIOgDImQUIxu7oPWS5ouCKZtRm60qEGk0YW1JyUK7YzVU53zcDjf
+9/v+3y2WtcbmsKduBvb1315otT8fWg7ZThRdutYMeE1sBN5mcBquPpKiBqAe1BXV
+BF5AMrgk0gxBsxLBQLeICbRbkASaIT0iJzICSWCQcpMQOIGsGVYEkuE5A7oUDdnQ
+x6+IyPofPrTqoDB0WJGWJArivEBTFMqAQTdFeDDejWEWaEBd5eogout0Xlc4VdZ4
+DUScADnCigCtsq3s/0KugGLKIf53MUFdMzVBq0WIbJpBw2tJmI1BK6Ye8v4/an5e
+UUU0BBQRhrqhaCrw4ogUTMWSxz04QeLoUk4AG4KKDv2KRZA0xVi9WHlgGEkSHI2R
+PMtiDEXhEGIkhguEyNIeCpNYDxRZEkpoIpJAcqLEcSRB0IzAkAKDix6ehgKw+juj
+asBLojK5AJI0lIDKmSEdgsjwUPVam91hW78uzVqjzZGx8e9yF2bTV0LZG169yHG9
+7Ok60nfqQfthZ8vTxY/Gp1xjuxw/lnxdEPveq43NhycH5anq2ObE0pdDpS2jbZnp
+1yeas/PtAyXd8oeF5TLfVEn0HXWrb+lgMjwTkXtGyvUrJLln4i5xsnbTzAXfUe/e
+npLjUz/n+mtzDywV1qdaz17sTH1NtD5KPNudo1BpM/booK+p0vUknknUPDznuJ+x
+M3tgYPxOVWlZR3QuGil4nNhaVe+Mz8Y6Ki/73o6nyvfviP7IT2ypDkwWjrWP5k1n
+ecMVSX0xPp777eq9mpWi+REhjxKGbUlQ/KbYUbfyubyiSXt/Y7qbn23Y1WXf1tnJ
+9radN34B0e8h2A==
+=bsHx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrbrianhobo
+
+==================================================================
