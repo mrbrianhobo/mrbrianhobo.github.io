@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mrbrianhobo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brianho.io
+  * I am mrbrianhobo (https://keybase.io/mrbrianhobo) on keybase.
+  * I have a public key ASCplwsd87uXxggaTvipLyz_AVDdWgBdGAG5iDKj8pXXNQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a9970b1df3bb97c6081a4ef8a92f2cff0150dd5a005d1801b98832a3f295d7350a",
+      "host": "keybase.io",
+      "kid": "0120a9970b1df3bb97c6081a4ef8a92f2cff0150dd5a005d1801b98832a3f295d7350a",
+      "uid": "600009d7ff6e1bc766c720e26340b200",
+      "username": "mrbrianhobo"
+    },
+    "merkle_root": {
+      "ctime": 1531899977,
+      "hash": "45964f857e6bcdafcf53be90b1527a66c00da2aa03c2f96a36a338692b7eb4b90b3bd0d328fd6aecc8fa4e2f828cdc723a198d64a7eb918253b3b47c9d196d57",
+      "hash_meta": "f2865cb697d0ea27073181c9a5d9b1aa05e4983188300ff6ca5dde186efeb101",
+      "seqno": 3283174
+    },
+    "service": {
+      "entropy": "/qgx1HXktfRqq9HHBNxGRcL0",
+      "hostname": "brianho.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1531900023,
+  "expire_in": 504576000,
+  "prev": "eb124ddb867c8413717c2a178cb5f49e9a40d9a4c1db69922a6100223d5db0b0",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqZcLHfO7l8YIGk74qS8s/wFQ3VoAXRgBuYgyo/KV1zUKp3BheWxvYWTESpcCF8Qg6xJN24Z8hBNxfCoXjLX0nppA2aTB22mSKmEAIj1dsLDEIKbSEwbRU7PAI8U4nOeBEjB3UMlk8/6fdRJ3H3enR68HAgHCo3NpZ8RAB80vZt15wfCI6JtTanb+W+t9EKjBLALnn9CAknh38dkB+pVSDqnQslb+s8qpV3msFLcPKclwhjpZi7HRJndcC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFyMsXHJWL48BMizHkSgA0DrlV7Zjlwv4PwCRrUDlbsWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrbrianhobo
+
+==================================================================
