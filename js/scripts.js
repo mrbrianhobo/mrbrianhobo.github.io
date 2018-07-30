@@ -59,7 +59,7 @@ $(function() {
                   "<p>On campus, I'm heavily involved with Blockchain at Berkeley and its education side, helping "+
                   "lead a course on <a href=\"https://blockchain.berkeley.edu/decal/\">Blockchain Fundamentals</a> "+
                   "which covers a variety of topics in the cryptocurrency and the wider blockchain space (go check it out!). "+
-                  "Some of things I'm particularly interested in include cybersecurity (particularly smart contract security), "+
+                  "Some of the things I'm particularly interested in include cybersecurity (particularly smart contract security), "+
                   "cryptoeconomics & protocol design, and non-fungible tokens (NFTs aka CryptoKitties)."+
                   "<p>This summer, I'm interning at <a href=\"https://consensys.net/\">ConsenSys</a> with the "+
                   "<a href=\"https://bounties.network/\">Bounties Network</a> team, improving the way we collaborate and "+
