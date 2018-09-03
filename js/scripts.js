@@ -83,26 +83,31 @@ $(function() {
                         '<li class="course"><p>Data Structures (CS 61B)</p></li>'+
                         '<li class="course"><p>Computer Architecture (CS 61C)</p></li>'+
                         '<li class="course"><p>Discrete Math & Probability Theory (CS 70)</p></li>'+
-                        '<li class="course"><p>Algorithms & CS Theory (CS 170)</p></li>'+
                         '<li class="course"><p>Computer Security (CS 161)</p></li>'+
+                        '<li class="course"><p>Algorithms & CS Theory (CS 170)</p></li>'+
+                        '<li class="course"><p>Database Systems (CS 186)</p></li>'+
                         '<li class="course"><p>Artificial Intelligence (CS 188)</p></li>'+
+                        '<li class="course"><p>Social Implications of Computer Technology (CS 195)</p></li>'+
+                        '<li class="course"><p>Blockchain, Cryptoeconomics, and the Future of Technology, Business, and Law (CS 294-144)</p></li>'+
+                        '<li class="course"><p>Blockchain and Cryptoeconomics (CS 294-151)</p></li>'+
                         '<li class="course"><p>Information Devices & Systems I/II (EE 16A/EE 16B)</p></li>'+
                         '<li class="course"><p>Multivariable Calculus (MATH 53)</p></li>'+
                         '<li class="course"><p>Linear Algebra & Differential Equations (MATH 54)</p></li>'+
                         '<li class="course"><p>Microeconomic Theory (ECON 101A)</p></li>'+
+                        '<li class="course"><p>Game Theory in the Social Sciences (POLISCI 135/ECON C110)</p></li>'+
                   '</ul>';
     $('.about').replaceWith('<div class="about animated fadeIn">' + content + '</div>');
   });
 
   $("#work").click(function(e) {
     e.preventDefault();
-    var content = '<a href="https://consensys.net/"><img class="logo" src="img/consensys.png"></img></a>'+
+    var content = '<a href="https://consensys.net/"><img class="logo consensys" src="img/consensys.png"></img></a>'+
                   '<h2 class="role"><a href="https://bounties.network/">Bounties Network</a> Intern @ <a href="https://consensys.net/">ConsenSys</a></h2>'+
                   '<p class="date">June 2018 – Present</p>'+
-                  '<a href="https://www.udacity.com/"><img class="logo" src="img/udacity.png"></img></a>'+
+                  '<a href="https://www.udacity.com/"><img class="logo udacity" src="img/udacity.png"></img></a>'+
                   '<h2 class="role">Expert-in-Residence @ <a href="https://www.udacity.com/">Udacity</a></h2>'+
                   '<p class="date">June 2018 – Present</p>'+
-                  '<a href="https://blockchain.berkeley.edu/"><img class="logo" src="img/bab.png"></img></a>'+
+                  '<a href="https://blockchain.berkeley.edu/"><img class="logo bab" src="img/bab.png"></img></a>'+
                   '<h2 class="role">Education @ <a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley</a></h2>'+
                   '<p class="date">January 2017 – Present</p>'+
                   '<a href="http://www.dailycal.org/"><img class="logo" src="img/dc.png"></img></a>'+
